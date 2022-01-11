@@ -1,0 +1,63 @@
+ WL_LevelState_TranstarLabs_FireIndex(13856881013243428929): 1
+	<GameToken Id="1981865790" Name="WL_LevelHazards.LabsEnvState_FireIndex" Type="Int" Value="0" Description="0 : No Fire, 1-3 : Level Zones"/>
+ WL_LevelState_TranstarLabs_FloodedIndex(13856881013243428986): 1
+	<GameToken Id="1621148184" Name="WL_LevelHazards.LabsEnvState_FloodedIndex" Type="Int" Value="0" Description="0 : No Flooding, 1 - Director&apos;s Office, 2 - Lobby Entrance, 3 - Basement Atrium"/>
+ WL_LevelState_TranstarLabs_RadiationIndex(13856881013243428999): 2
+ 
+ WL_LevelState_TranstarLabs_BrokenStairs_Lobby(844024417347600024): 1
+ WL_LevelState_TranstarLabs_BrokenStairs_Director(844024417348143598): 1
+  <GameToken Id="256760490" Name="WL_LevelHazards.LabsEnvState_GravityIndex" Type="Int" Value="2" Description="0 : Zero G, 1 : Moon G, 2 : Normal G"/>
+ <GameToken Id="1281322606" Name="WL_LevelHazards.LabsEnvState_HasNoOxygen" Type="Bool" Value="false"/>
+ <GameToken Id="1631525841" Name="WL_LevelHazards.LabsEnvState_HasNoPower" Type="Bool" Value="false"/>
+ <GameToken Id="582314966" Name="WL_LevelHazards.LabsEnvState_RadiationIndex" Type="Int" Value="0" Description="0 : No Radiation, 1-X : Level Zones"/>
+ 
+ WL_LevelState_Moonworks_FireIndex(13856881013243429027): 3
+ WL_LevelState_Moonworks_FloodedIndex(13856881013243429058): 4
+ WL_LevelState_Moonworks_RadiationIndex(13856881013243429068): 3
+ WL_LevelState_CrewAnnex_NPCs_Hub(13856881013245092409): 2
+ WL_LevelState_CrewAnnex_NPCs_MachineShop(13856881013245092442): 2
+ WL_LevelState_CrewAnnex_FireIndex(13856881013243429085): 2
+ WL_LevelState_CrewAnnex_FloodedIndex(13856881013243429104): 1
+ WL_LevelState_CrewAnnex_RadiationIndex(13856881013243429116): 3
+ WL_LevelState_Engineering_FireIndex(13856881013243429129): 3
+ WL_LevelState_Engineering_FloodedIndex(13856881013243429147): 2
+ WL_LevelState_Engineering_RadiationIndex(13856881013243429158): 3
+ WL_LevelState_Crater_Hazard(13856881013245784939): 1
+ WL_LevelState_Crater_FireIndex(13856881013245773610): 5
+	<GameToken Id="244613791" Name="WL_LevelHazards.CraterEnvState_FireIndex" Type="Int" Value="0" Description="0 : No Fire, 1- Control, 2 - Labs, 3 - Moonworks, 4 - Crew, 5 - Scale, 6 - PowerControl"/>
+ WL_LevelState_Crater_FloodedIndex(13856881013245773639): 2
+	<GameToken Id="633703453" Name="WL_LevelHazards.CraterEnvState_FloodedIndex" Type="Int" Value="0" Description="0 : No Flooding, 1- Control, 2 - Labs, 3 - Moonworks, 4 - Crew, 5 - Scale, 6 - PowerControl"/>
+ WL_LevelState_Crater_RadiationIndex(13856881013245773684): 3
+	<GameToken Id="1093795368" Name="WL_LevelHazards.CraterEnvState_RadiationIndex" Type="Int" Value="0" Description="0 : No Radiation, 1- Control, 2 - Labs, 3 - Moonworks, 4 - Crew, 5 - Scale, 6 - PowerControl"/>
+ WL_LevelState_Crater_TunnelClearChance(6732635291258641466): 1
+ WL_LevelState_Crater_DustStormchance(6732635291258641402): 0
+ WL_Escape_WhichEscapePodIsAvailable(844024417339065869): 2
+ WL_WorldState_WhichTramStationIsInoperable(844024417345702903): 3
+ WL_Escape_CrateSupplyTypeNeeded(844024417338638497): 1
+ WL_PilotLevelIndex(844024417347433182): 1
+ WL_PilotLocationIndex(844024417347433197): 1
+ WL_LabsState_ShutterIndex(844024417347599945): 1
+ WL_LabsState_StickyNoteLocation(12889009725087811513): 0
+ WL_LabsState_Debris(844024417347599971): 0
+ WL_WorldState_GravityChance(844024417348292884): 4
+ WL_WorldState_LowGravLevelIndex(844024417348293092): 1
+ WL_WorldState_O2Chance(844024417348295794): 1
+ WL_Escape_CrateTrailheadLocation(844024417348816850): 1
+ WL_Escape_UploadScan_Level(12889009725079964969): 0
+ WL_Escape_UploadScan_CorpseLocation(12889009725079965005): 1
+ WL_PlayableSecurityGuardLevelIndex(844024417349350416): 3
+ WL_SideQuest_KasmaListener_Level(12889009725080042687): 0
+ WL_SideQuest_KasmaListener_Device1Location(12889009725080378062): 1
+ WL_SideQuest_KasmaListener_Device2Location(12889009725080378089): 0
+ WL_SideQuest_KasmaListener_Device3Location(12889009725080378091): 0
+ WL_PlayableSecurityGuardLocationIndex(844024417349350442): 0
+ WL_SecurityQuest_AntidoteLevelIndex(844024417350117959): 1
+ WL_ChallengeStartMap(13856881013254919835): 1
+ WL_ChallengeStartSpawnPoint(13856881013254920142): 1
+ WL_ChallengeStartCharacter(13856881013254919983): 5
+ WL_SideQuest_VolunteerToyLevel(844024417351400591): 1
+ WL_SideQuest_VolunteerToyPosition(14667999412613245342): 3
+ WL_LevelState_MoonWorks_BrokenGeo_MineCatwalk_Lower(844024417352533430): 0
+ WL_LevelState_MoonWorks_BrokenGeo_MineCatwalk_Upper(761057048038754863): 0
+ WL_LevelState_MoonWorks_BrokenGeo_Refinery(761057048038754887): 0
+ WL_HazardImmuneLevel(844024417362761889): 1
